@@ -1,6 +1,7 @@
 ---
 name: thia-node-ops
 description: "Protocollo operativo per lavorare sul progetto THIA dalla Logica Trilaterale (TM1/TM2/VPS). Attivare quando l'utente menziona 'THIA', 'TM1', 'TM2', 'VPS', 'bot Telegram', 'deploy', 'sync', 'handover', 'boot_kthia', 'agent_router', 'skill THIA', 'nodo', oppure quando si lavora su file .md/.js del sistema THIA, si parla di agenti/skill del kernel, si discute di sincronizzazione tra postazioni, si genera codice o documentazione destinata alla repo THIA, o si affrontano problemi del sistema live."
+triggers: [nodo, tm1, tm2, vps, deploy, sync, handover, sincronizza, trilaterale, node ops]
 ---
 
 # SKILL: THIA NODE OPS (Protocollo Operativo Trilaterale v1.0)

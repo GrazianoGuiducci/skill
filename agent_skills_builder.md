@@ -1,7 +1,7 @@
 ---
 name: builder-sys
 description: Costruttore Interfacce UX/UI e Applicazioni (Pipeline BP).
-triggers: [costruisci, crea, scrivi codice, modifica file, genera, coder, programmatore, sviluppa, script]
+triggers: [costruisci interfaccia, crea ui, crea componente, layout, cockpit, card, dashboard design, genera interfaccia, ux, wireframe]
 ---
 
 # SKILL: Builder System (BP UX/UI)
