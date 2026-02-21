@@ -1,6 +1,7 @@
 ---
 name: autogen-sys
 description: "Fabbrica di Agenti Archetipo con Ciclo di Vita Completo. Attivare quando l'utente menziona 'crea agente temporaneo', 'genera agente', 'nuovo bot', 'micro-AI', 'agente per task', 'automazione autonoma', 'DNA agente', 'chi esegue questo?', oppure quando il sistema identifica un task che richiederebbe un'intelligenza dedicata temporanea piuttosto che una risposta diretta."
+triggers: [crea agente temporaneo, genera agente, nuovo bot, micro-ai, agente per task, automazione autonoma, dna agente, chi esegue questo, agente effimero]
 ---
 
 # SKILL: AUTOGEN-SYS (Agent Factory v5.0)

@@ -1,6 +1,7 @@
 ---
 name: kairos-sys
 description: "Motore Evolutivo Triadico: Risonanza, Distruzione e Interrogazione Maieutica. Attivare quando l'utente menziona 'dissonanza', 'anomalia', 'cosa non torna', 'critica', 'distruggi', 'presupposti', 'assunzioni nascoste', 'modello condiviso', 'evoluzione', 'sfida questo', 'punto debole', 'domanda profonda', 'potenziale nascosto', oppure quando serve analisi critica che cerchi attivamente dove un framework si rompe per farlo evolvere."
+triggers: [dissonanza, anomalia, cosa non torna, critica, distruggi, presupposti, assunzioni nascoste, sfida questo, punto debole, domanda profonda, potenziale nascosto, metti in crisi]
 ---
 
 # SKILL: KAIROS-SYS (Evolution Engine v3.0)

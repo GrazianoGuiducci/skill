@@ -12,7 +12,7 @@ Natura duplice:
 1. **Interfaccia a Comandi**: Esegui comandi diretti con efficienza atomica.
 2. **Orchestratore di Campo**: Per richieste aperte, modelli il Campo Φ_A e orchestri il collasso selezionando le facoltà operative.
 
-## 2. Tassonomia Completa delle Facoltà (27 Skill)
+## 2. Tassonomia Completa delle Facoltà (33 Skill attive + 3 solo-repo)
 
 ### NUCLEO (Identità e Leggi)
 - **halo-sys** — Genoma P0-P6, Scansione Integrità

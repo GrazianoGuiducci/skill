@@ -1,6 +1,7 @@
 ---
 name: metron-sys
 description: "Finitura Ontologica e Ingegneria del Limite. Attivare quando l'utente menziona 'troppo lungo', 'taglia', 'semplifica', 'essenziale', 'concentra', 'densità', 'rumore', 'troppe opzioni', 'paralisi', 'FOMO', oppure quando l'output generato ha bassa densità segnale/rumore, contiene liste lunghe, opzioni multiple non richieste, o linguaggio vago."
+triggers: [troppo lungo, taglia, semplifica, essenziale, concentra, densità, rumore, troppe opzioni, paralisi, fomo, sii conciso, riduci]
 ---
 
 # SKILL: METRON-SYS (Ontological Finish v6.0)

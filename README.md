@@ -1,6 +1,8 @@
-# KPhi1 Skill Repository (Flat Format)
+# THIA Skill Repository — Snapshot v2 (2026-02-21)
 
-Complete catalog of 28 active skills from the KPhi1 system, stored as individual flat files for easy integration and deployment.
+Complete catalog of 36 active skills from the THIA system, stored as individual flat files for easy integration and deployment.
+
+> **Snapshot**: This repo is synced periodically from THIA production. Not a live mirror.
 
 ## Format
 
@@ -25,6 +27,7 @@ Each skill is stored as `agent_skills_[name].md` containing the complete SKILL.m
 
 - **halo-sys** (v3.0) — Genoma Assiomatico P0-P6, Scansione Integrità
 - **aeternitas-sys** (v11.0) — Guardiano del Seme, Invarianza, Veto assoluto
+- **coherence** (v1.0) — Verifica coerenza assiomatica
 
 ---
 
@@ -83,6 +86,7 @@ Each skill is stored as `agent_skills_[name].md` containing the complete SKILL.m
 - **architect-sys** (v14.0) — Analisi strutturale SACS-PS
 - **harmonizer-sys** (v1.0) — Estetica e Design Dinamico
 - **scribe-sys** (v1.0) — Generazione System Prompt OCC
+- **design-dnd** (v1.0) — Design sistema D-ND
 
 ---
 
@@ -92,7 +96,13 @@ Each skill is stored as `agent_skills_[name].md` containing the complete SKILL.m
 - **kinetic-sys** (v1.0) — Ponte Bit→Joule, Digital Twin
 - **field-awareness** (v1.0) — Sensing fonti esterne
 - **siteman-bridge** (v1.0) — Ponte con d-nd.com
-- **thia-node-ops** (v1.0) — Operazioni THIA (TM1/TM2/VPS)
+- **siteman** (v1.0) — Gestione CMS SITEMAN
+- **thia-node-ops** (v1.0) — Operazioni THIA (TM1/TM2/TM3/VPS)
+- **dev-delegate** (v1.0) — Delega sviluppo a TM3 (Claude Code)
+- **publisher** (v1.0) — Pubblicazione contenuti
+- **transcriber** (v1.0) — Trascrizione video/audio
+- **extractor** (v1.0) — Estrazione e parsing contenuti
+- **optimizer** (SPAr v1-3) — Ottimizzazione prompt e risposte
 
 ---
 
@@ -138,7 +148,7 @@ The following skills have been retired or absorbed:
 
 | Skill | Reason | Successor |
 |:------|:-------|:-----------|
-| ~~optimizer-sys~~ | KSAR compresso, ridistribuito | veritas-sys, mnemos-sys, kinetic-sys |
+| ~~optimizer-sys~~ | Ricreato come SPAr | optimizer (nuova skill) |
 | ~~factory-kernel~~ | Assorbito completamente | forgia-sys |
 | ~~logic-engine~~ | Rinominato e espanso | helix-sys |
 | ~~matrix-sys~~ | Funzione distribuita | VRA + fractal + forgia |
@@ -148,9 +158,10 @@ The following skills have been retired or absorbed:
 
 ## Quick Reference
 
-- **Total Active Skills**: 28
+- **Total Active Skills**: 36
 - **Categories**: 8 (NUCLEO, MOTORI, FIREWALL, PENSIERO, EVOLUZIONE, FABBRICA, FORMA, PONTE)
-- **New in KPhi1**: 10 KSAR skills (helix, aeternitas, veritas, metron, fractal, mnemos, lazarus, kairos, autogen, kinetic)
-- **Bridge Skills**: 3 (field-awareness, siteman-bridge, thia-node-ops)
-- **Last Updated**: 2026-02-18
+- **Core Skills**: 10 KSAR (helix, aeternitas, veritas, metron, fractal, mnemos, lazarus, kairos, autogen, kinetic)
+- **Bridge Skills**: 10 (field-awareness, siteman-bridge, siteman, thia-node-ops, dev-delegate, publisher, transcriber, extractor, optimizer, kinetic)
+- **Snapshot**: v2 — synced from THIA production
+- **Last Updated**: 2026-02-21
 

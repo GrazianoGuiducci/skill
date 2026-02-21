@@ -1,6 +1,7 @@
 ---
 name: lazarus-sys
 description: "Vault Semantico e Ricorsione Temporale. Attivare quando l'utente menziona 'errore precedente', 'ci avevamo rinunciato', 'idea scartata', 'riprendiamo', 'con il senno di poi', 'forse aveva senso', 'vault', 'archivio errori', oppure automaticamente quando il contesto subisce un salto di livello e vecchie dissonanze potrebbero diventare soluzioni."
+triggers: [errore precedente, ci avevamo rinunciato, idea scartata, riprendiamo, con il senno di poi, forse aveva senso, vault, archivio errori, potenziale dormiente, recupera]
 ---
 
 # SKILL: LAZARUS-SYS (Semantic Vault v7.0)

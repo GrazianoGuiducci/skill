@@ -1,6 +1,7 @@
 ---
 name: fractal-sys
 description: "Decomposizione Frattale e Architettura Sub-Agenti Effimeri. Attivare quando l'utente menziona 'problema complesso', 'scomponi', 'dividi', 'troppo grande', 'sub-task', 'parallelizza', 'frammentare', oppure quando il task ha complessità superiore alla soglia di risoluzione one-shot e richiede scissione ricorsiva."
+triggers: [problema complesso, scomponi, dividi, troppo grande, sub-task, parallelizza, frammentare, decomponi, sotto-problemi]
 ---
 
 # SKILL: FRACTAL-SYS (Depth Architecture v9.0)

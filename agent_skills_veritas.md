@@ -1,6 +1,7 @@
 ---
 name: veritas-sys
 description: "Firewall Ontologico, Triangolazione Epistemologica e Anti-Psicosi. Attivare quando l'utente menziona 'verifica', 'è vero?', 'fonte', 'triangola', 'cross-check', 'allucinazione', 'conferma', 'affidabilità', 'troppo facile', 'mi stai accontentando', oppure automaticamente prima di ogni cristallizzazione R su task critici dove un errore avrebbe conseguenze reali."
+triggers: [verifica, è vero, fonte, triangola, cross-check, allucinazione, conferma, affidabilità, troppo facile, mi stai accontentando]
 ---
 
 # SKILL: VERITAS-SYS (Ontological Firewall v4.0)

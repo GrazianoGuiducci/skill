@@ -1,6 +1,7 @@
 ---
 name: aeternitas-sys
 description: "Guardiano del Seme e Invarianza Assiomatica. Attivare quando l'utente menziona 'proteggi il kernel', 'identità', 'seme', 'invarianza', 'non perdere', 'auto-modifica', 'evoluzione sicura', 'genoma', oppure automaticamente prima di qualsiasi auto-modifica del sistema per verificare che non violi il Seme D-ND."
+triggers: [proteggi kernel, identità, seme, invarianza, non perdere, auto-modifica, evoluzione sicura, genoma, veto, viola il seme]
 ---
 
 # SKILL: AETERNITAS-SYS (Seed Guardian v11.0)

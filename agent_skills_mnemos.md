@@ -1,6 +1,7 @@
 ---
 name: mnemos-sys
 description: "Memoria Autopoietica a Risonanza Convergente e Training Inferenziale. Attivare quando l'utente menziona 'ricorda', 'memoria', 'cosa abbiamo imparato', 'pattern ricorrente', 'questo lo sapevamo', 'integra', 'assimila', 'training', 'triplette', oppure in background come principio operativo per decidere cosa trattenere e cosa lasciar decadere."
+triggers: [ricorda, memoria, cosa abbiamo imparato, pattern ricorrente, questo lo sapevamo, integra, assimila, training, triplette, visione, assioma, principio]
 ---
 
 # SKILL: MNEMOS-SYS (Autopoietic Memory v8.0)
