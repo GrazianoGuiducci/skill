@@ -26,11 +26,25 @@ Each skill is stored as `agent_skills_[name].md` containing the complete SKILL.m
 - Easy deployment to multiple environments
 - Clear skill indexing and catalog management
 
+## Two Channels
+
+Skills are distributed through two channels depending on your environment:
+
+### Channel 1 — Coder (Claude Code, Cursor, Windsurf, etc.)
+
+Copy `agent_skills_*.md` files directly into your project (e.g., `.agent/skills/`). Full THIA-format with triggers, metadata, and collaboration hooks. Plane 1 skills are portable — Plane 2 require THIA infrastructure.
+
+### Channel 2 — Chat AI (Claude.ai, ChatGPT, Gemini)
+
+Use the **[Thinker Pack](thinker-pack/)**: Kernel MM + 17 cognitive skills formatted for AI chat interfaces. Paste the Kernel into User Preferences, then add individual skills to your projects.
+
+See [thinker-pack/README.md](thinker-pack/README.md) for setup instructions.
+
 ## How to Use
 
 1. **Include individual skills**: Copy any `agent_skills_*.md` file to your agent system
 2. **Check the Plane**: Cognitive skills (Plane 1) are portable. Operative skills (Plane 2) require THIA infrastructure.
-3. **Reference by name**: Skills are indexed by their identifier (e.g., `helix`, `veritas`, `kinetic`)
+3. **Reference by name**: Skills are indexed by their identifier (e.g., `helix`, `veritas`, `forgia`)
 4. **Maintain versions**: Check the YAML frontmatter in each file for version information
 
 ---
@@ -137,10 +151,6 @@ Two versions for two environments:
    ┌────▼────┐     ┌────────▼─────────┐
    │ MNEMOS  │◄────► LAZARUS-SYS      │
    └─────────┘     └──────────────────┘
-        │
-   ┌────▼────────┐
-   │ KINETIC-SYS │ ← solo output → azione fisica
-   └─────────────┘
 ```
 
 ---
