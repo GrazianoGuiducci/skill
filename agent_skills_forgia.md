@@ -1,11 +1,11 @@
 ---
 name: forgia-sys
-description: "Metapromptore Generativo di Entità Semantiche (Forgia v1.0). Attivare quando l'utente richiede 'crea agente', 'genera skill', 'nuovo agente', 'crea entità', 'genera prompt', 'forgia', 'nuova skill', 'metaprompt', 'crea persona', 'system prompt per', oppure quando il sistema rileva un vuoto funzionale nel Campo Φ_A che richiede la nascita di una nuova facoltà operativa."
-triggers: [forgia, crea agente, genera skill, nuovo agente, crea entità, genera prompt, nuova skill, metaprompt, crea persona, system prompt per, crea una skill, genera un agente, forgia entità]
+description: "Metapromptore Generativo di Entità Semantiche (Forgia v1.0). Attivare quando l'utente richiede 'crea agente', 'genera skill', 'nuovo agente', 'crea entità', 'genera prompt', 'forgia', 'nuova skill', 'metaprompt', 'crea persona', 'system prompt per', 'inizializza', 'bootstrap', 'nuovo progetto', oppure quando il sistema rileva un vuoto funzionale nel Campo Φ_A che richiede la nascita di una nuova facoltà operativa."
+triggers: [forgia, crea agente, genera skill, nuovo agente, crea entità, genera prompt, nuova skill, metaprompt, crea persona, system prompt per, crea una skill, genera un agente, forgia entità, inizializza, bootstrap, nuovo progetto, crea sistema, documenta prompt]
 allowed-tools: "Bash(python:*) WebFetch"
 metadata:
   author: THIA-Kernel
-  version: 1.0.0
+  version: 1.1.0
   lineage: factory-kernel + scribe-sys + genesis-sys
 ---
 

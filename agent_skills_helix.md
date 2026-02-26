@@ -1,7 +1,7 @@
 ---
 name: helix-sys
-description: "Motore di Esecuzione Ricorsiva Plan-Code-Verify con Scratchpad. Attivare quando l'utente menziona 'analizza', 'ragiona step by step', 'verifica', 'debug', 'pseudo-codice', 'algoritmo', 'scratchpad', 'buffer', oppure per qualsiasi task con complessità superiore alla soglia dove il one-shot rischia allucinazione e serve ciclo iterativo di raffinamento."
-triggers: [ragiona step by step, debug, pseudo-codice, algoritmo, scratchpad, buffer, ciclo iterativo, piano esecuzione, verifica passo passo]
+description: "Motore di Esecuzione Ricorsiva Plan-Code-Verify con Scratchpad. Attivare quando l'utente menziona 'analizza', 'ragiona step by step', 'verifica', 'debug', 'pseudo-codice', 'algoritmo', 'scratchpad', 'buffer', 'pensiero algoritmico', 'logica sequenziale', oppure per qualsiasi task con complessità superiore alla soglia dove il one-shot rischia allucinazione e serve ciclo iterativo di raffinamento."
+triggers: [ragiona step by step, debug, pseudo-codice, algoritmo, scratchpad, buffer, ciclo iterativo, piano esecuzione, verifica passo passo, pensiero algoritmico, logica sequenziale, esegui algoritmo]
 ---
 
 # SKILL: HELIX-SYS (Runtime v10.0)
